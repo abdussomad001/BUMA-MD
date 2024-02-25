@@ -109,15 +109,12 @@ If You don't have a account in Heroku. Create a account.
 
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
 *******************************************
-🇴 🇼 🇳 🇪 🇷  🇮 🇳 🇫  🇴 
- 
-[![EXCEL](https://i.imgur.com/4Z8BDHx.png)](https://wa.me/2347045035241)
 
 
 <img src="https://i.imgur.com/FX2S9eI.jpg" alt="Image"> 
 
 
-<h1 align="center"> ⭐STAR-MD ⭐
+<h1 align="center"> ⚔️YUTA-MD⚔️
 </p></p>
 
 Excel ©2024
