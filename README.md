@@ -1,4 +1,4 @@
-``STAR-MD``
+``⚔️YUTA-MD⚔️``
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=BBFFFB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+I'm+⚔️YUTA-MD⚔️................+;A+Multi-fuctional+WhatsApp+Bot;+++++Coded BY+ABDUL AND EXCEL AMADI" alt="Typing SVG" /></a>  
 
@@ -66,7 +66,7 @@ mongodb+srv://astromedia0010:beka10beka10@cluster0.pxc8ulo.mongodb.net/
 <a href='https://yuta-md-qr-scan01-774fb8883c9f.herokuapp.com/' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
  
-<a href='https://star-md-qr-excel-64001a3963c7.herokuapp.com/' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://yuta-md-qr-scan02-13358eca16d6.herokuapp.com/' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 
 
