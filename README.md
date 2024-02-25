@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://wa.me/2347045035241">
-    <img alt="YUTA-MD" height="300" src=https://telegra.ph/file/4613657eaf5adf96f95fb.jpg">
-  </a>
+    <img alt="STAR-MD" height="300" src=https://telegra.ph/file/4613657eaf5adf96f95fb.jpg">
+  </a>
 <h1 align="center"> ⚔️YUTA-MD⚔️
 </p>
       <p align="center">
