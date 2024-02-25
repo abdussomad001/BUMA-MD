@@ -132,16 +132,16 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/abdussomad001/⚔️𝐘𝐔𝐓𝐀⚔-MD⚔️')
+        let { data } = await axios.get('https://api.github.com/repos/abdussomad001/𝐘𝐔𝐓𝐀-MD')
         let cap = `Hey ${citel.pushName}\n
 *⭐ TOTᗩᒪ ՏTᗩᖇՏ:* ${data.stargazers_count} stars
 *🍽️ ᖴOᖇKՏ:* ${data.forks_count} forks
-*🍁 ᖇᗴᑭO:* https://github.com/abdussomad001/-YUTA-MD-
+*🍁 ᖇᗴᑭO:* https://github.com/abdussomad001/YUTA-MD
 *⚔️ᘜᖇOᑌᑭ:* https://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs
 *📡ᑭᑌᗷᒪIᑕ ᘜᖇOᑌᑭ:*https://chat.whatsapp.com/LrJNmRmk554AwJpx35CgOO
-*🔍Տᑕᗩᑎ ᑫᖇ:* https://star-md-qr-web-xcelsama-e29e85286f3a.herokuapp.com/
+*🔍Տᑕᗩᑎ ᑫᖇ:* https://yuta-md-qr-scan02-13358eca16d6.herokuapp.com/
 *💻ᑕᕼᗩᑎᑎᗴᒪ ᒪIᑎK:* https://whatsapp.com/channel/0029VaR1obdG8l5BmWBWV432
-*⚙️DᗴᑭloY YOᑌᖇ Oᗯᑎ:*-https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-MD`
+*⚙️DᗴᑭloY YOᑌᖇ Oᗯᑎ:*-https://dashboard.heroku.com/new?template=https://github.com/abdussomad001/YUTA-MD`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,
@@ -149,7 +149,7 @@ cmd({
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "STAR-REPO",
+                    title: "YUTA-REPO",
                     body: "Easy to Use",
                     thumbnail: log0,
                     mediaType: 4,
