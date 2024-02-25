@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=BBFFFB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+I'm+⚔️YUTA-MD⚔️................+;A+Multi-fuctional+WhatsApp+Bot;+++++Coded BY+ABDUL AND EXCEL AMADI" alt="Typing SVG" /></a>  
 
 <p align="center">
-  <a href="https://wa.me/2347045035241">
+  <a href="https://wa.me/2349028622713">
 <img src="https://i.ibb.co/NFx8vZF/20240225-100200-1.jpg" alt="20240225-100200-1" border="0">
 
 
@@ -11,7 +11,7 @@
 <h1 align="center"> ⚔️YUTA-MD⚔️
 </p>
       <p align="center">
-  <a href="https://wa.me//+2347045035241" target="_blank">
+  <a href="https://wa.me//+2349028622713" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a aria-label="STAR-MD is free to use" href="https://chat.whatsapp.com/FdwbFnI8Fcf4VTVvFTFk08" "target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
