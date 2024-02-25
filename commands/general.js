@@ -132,15 +132,15 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/Xcelsama/STAR-MD')
+        let { data } = await axios.get('https://api.github.com/repos/abdussomad001/⚔️𝐘𝐔𝐓𝐀⚔-MD⚔️')
         let cap = `Hey ${citel.pushName}\n
 *⭐ TOTᗩᒪ ՏTᗩᖇՏ:* ${data.stargazers_count} stars
 *🍽️ ᖴOᖇKՏ:* ${data.forks_count} forks
-*🍁 ᖇᗴᑭO:* Repo:*https://github.com/Xcelsama/STAR-MD
+*🍁 ᖇᗴᑭO:* https://github.com/abdussomad001/-YUTA-MD-
 *⚔️ᘜᖇOᑌᑭ:* https://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs
-*📡ᑭᑌᗷᒪIᑕ ᘜᖇOᑌᑭ:* https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK
+*📡ᑭᑌᗷᒪIᑕ ᘜᖇOᑌᑭ:*https://chat.whatsapp.com/LrJNmRmk554AwJpx35CgOO
 *🔍Տᑕᗩᑎ ᑫᖇ:* https://star-md-qr-web-xcelsama-e29e85286f3a.herokuapp.com/
-*💻ᑕᕼᗩᑎᑎᗴᒪ ᒪIᑎK:* https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m
+*💻ᑕᕼᗩᑎᑎᗴᒪ ᒪIᑎK:* https://whatsapp.com/channel/0029VaR1obdG8l5BmWBWV432
 *⚙️DᗴᑭloY YOᑌᖇ Oᗯᑎ:*-https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-MD`
         let buttonMessaged = {
             image: { url: await botpic() },
@@ -179,7 +179,7 @@ cmd({
         let ter = `
 🔰 *${tlang().title}* 🔰
 𝐎𝐖𝐍𝐄𝐑:-+2347045035241
-*🌟Description:* 𝙰 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚋𝚘𝚝 𝚠𝚒𝚝𝚑 𝚛𝚒𝚌𝚑 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜, 𝚋𝚞𝚒𝚕𝚝 𝚒𝚗 𝙽𝚘𝚍𝚎𝙹𝚜 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚢𝚘𝚞𝚛 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚎𝚗𝚓𝚘𝚢𝚊𝚋𝚕𝚎...𝚋𝚢 𝙴𝚡𝚌𝚎𝚕.
+*🌟Description:* 𝙰 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚋𝚘𝚝 𝚠𝚒𝚝𝚑 𝚛𝚒𝚌𝚑 𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚜, 𝚋𝚞𝚒𝚕𝚝 𝚒𝚗 𝙽𝚘𝚍𝚎𝙹𝚜 𝚝𝚘 𝚖𝚊𝚔𝚎 𝚢𝚘𝚞𝚛 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚎𝚗𝚓𝚘𝚢𝚊𝚋𝚕𝚎...𝚋𝚢 𝙴𝚡𝚌𝚎𝚕 𝚁𝚎𝚌𝚘𝚍ed by 𝚈𝚄𝚃𝙰.
 *⚡Speed:* ${latensie.toFixed(4)} ms
 *🚦Uptime:* ${runtime(process.uptime())}
 *🕸Version:* 0.0.7
