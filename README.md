@@ -2,14 +2,12 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=BBFFFB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+I'm+⚔️YUTA-MD⚔️................+;A+Multi-fuctional+WhatsApp+Bot;+++++Coded BY+ABDUL AND EXCEL AMADI" alt="Typing SVG" /></a>  
 
-
+<p align="center">
+  <a href="https://wa.me/2347045035241">
 <img src="https://i.ibb.co/NFx8vZF/20240225-100200-1.jpg" alt="20240225-100200-1" border="0">
 
 
-<p align="center">
-  <a href="https://wa.me/2347045035241">
-    <img alt="STAR-MD" height="600" src=https://telegra.ph/file/4613657eaf5adf96f95fb.jpg">
-  </a>
+
 <h1 align="center"> ⚔️YUTA-MD⚔️
 </p>
       <p align="center">
