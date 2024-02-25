@@ -1,6 +1,6 @@
 ``STAR-MD``
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=BBFFFB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+I'm+STAR-MD................+;A+Multi-fuctional+WhatsApp+Bot;+++++BY+EXCEL+AMADI" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=BBFFFB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+I'm+⚔️YUTA-MD⚔️................+;A+Multi-fuctional+WhatsApp+Bot;+++++BY+EXCEL+AMADI" alt="Typing SVG" /></a>  
 
 
 
@@ -10,7 +10,7 @@
   <a href="https://wa.me/2347045035241">
     <img alt="STAR-MD" height="300" src=https://i.imgur.com/D0ZPh8f.jpg">
   </a>
-<h1 align="center"> ⭐STAR-MD ⭐
+<h1 align="center"> ⚔️YUTA-MD⚔️
 </p>
       <p align="center">
   <a href="https://wa.me//+2347045035241" target="_blank">
