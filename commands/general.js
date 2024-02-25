@@ -37,7 +37,7 @@ cmd({
     alias :['gpt'],
     desc: "chat with an AI(GPT)",
     category: "AI",
-    use: '<◡̈⋆🅷🅸(●’◡’●)ﾉ,𝚂𝚝𝚊𝚛>',
+    use: '<◡̈⋆🅷🅸(●’◡’●)ﾉ,𝚈𝚄𝚃𝙰>',
     filename: __filename,
 },
 async(Void, citel,text) => {
